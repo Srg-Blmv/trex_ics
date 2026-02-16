@@ -25,7 +25,7 @@ class Prof1():
         return ASTFProfile(default_ip_gen=ip_gen,
                             cap_list=[
                                 
-                                ASTFCapInfo(file="prom_pcaps/s7comm.pcap", cps=0.5),                              
+                                ASTFCapInfo(file="pcaps/s7comm.pcap", cps=0.5),                              
                                 
                                 ])
 

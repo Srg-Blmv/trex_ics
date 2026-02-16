@@ -19,7 +19,7 @@ class Prof1():
                            dist_server=ip_gen_s)
 
         return ASTFProfile(default_ip_gen=ip_gen,
-                            cap_list=[ASTFCapInfo(file="prom_pcaps/modbus.pcap",
+                            cap_list=[ASTFCapInfo(file="pcaps/modbus.pcap",
                             cps=0.5)])
 
 
